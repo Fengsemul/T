@@ -1,0 +1,147 @@
+{
+  "blacklist": "",
+  "blockColor": "default",
+  "blockWholeSite": false,
+  "dialogTheme": "default",
+  "enableMatchingRules": false,
+  "hideBlockLinks": false,
+  "hideControl": false,
+  "highlightColors": [
+    "#66bbff40"
+  ],
+  "linkColor": "default",
+  "serpInfoSettings": {
+    "user": {
+      "content": "name: My SERPINFO\npages: []\n"
+    },
+    "remote": [
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/google.yml",
+        "custom": false,
+        "enabled": true
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/bing.yml",
+        "custom": false,
+        "enabled": true
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/brave.yml",
+        "custom": false,
+        "enabled": false
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/duckduckgo.yml",
+        "custom": false,
+        "enabled": true
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/ecosia.yml",
+        "custom": false,
+        "enabled": false
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/kagi.yml",
+        "custom": false,
+        "enabled": false
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/searxng.yml",
+        "custom": false,
+        "enabled": false
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/startpage.yml",
+        "custom": false,
+        "enabled": false
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/yahoo-japan.yml",
+        "custom": false,
+        "enabled": false
+      },
+      {
+        "url": "https://raw.githubusercontent.com/ublacklist/builtin/refs/heads/dist/serpinfo/yandex.yml",
+        "custom": false,
+        "enabled": false
+      }
+    ]
+  },
+  "skipBlockDialog": false,
+  "subscriptions": [
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000001.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000002.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000003.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000004.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000005.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000006.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000007.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000008.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000009.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000010.txt",
+      "type": "ruleset",
+      "enabled": true
+    },
+    {
+      "name": "",
+      "url": "https://github.com/Fengsemul/notes/raw/refs/heads/main/Journal/TopMilionLinksZips/uBlacklist10million/chunk_000011.txt",
+      "type": "ruleset",
+      "enabled": true
+    }
+  ],
+  "syncAppearance": false,
+  "syncBlocklist": true,
+  "syncGeneral": false,
+  "syncInterval": 15,
+  "syncSerpInfo": false,
+  "syncSubscriptions": true,
+  "updateInterval": 1440,
+  "version": "9.9.0"
+}
