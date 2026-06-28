@@ -71,960 +71,960 @@
   "subscriptions": [
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000001.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000001.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000002.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000002.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000003.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000003.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000004.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000004.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000005.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000005.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000006.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000006.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000006.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000006.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000007.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000007.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000008.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000008.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000009.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000009.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000009.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000009.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000010.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000010.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000011.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000011.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000012.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000012.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000013.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000013.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000014.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000014.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000015.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000015.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000016.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000016.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000017.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000017.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000018.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000018.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000019.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000019.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000020.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000020.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000021.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000021.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000022.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000022.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000023.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000023.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000024.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000024.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000025.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000025.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000026.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000026.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000027.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000027.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000028.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000028.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000029.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000029.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000030.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000030.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000031.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000031.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000032.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000032.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000033.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000033.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000034.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000034.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000035.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000035.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000036.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000036.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000037.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000037.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000038.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000038.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000039.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000039.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000040.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000040.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000041.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000041.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000042.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000042.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000043.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000043.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000044.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000044.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000045.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000045.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000046.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000046.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000047.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000047.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000048.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000048.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000049.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000049.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000050.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000050.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000051.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000051.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000052.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000052.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000053.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000053.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000054.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000054.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000055.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000055.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000056.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000056.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000057.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000057.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000058.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000058.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000059.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000059.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000060.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000060.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000061.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000061.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000062.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000062.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000063.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000063.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000064.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000064.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000064.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000064.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000066.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000066.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000067.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000067.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000068.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000068.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000069.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000069.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000070.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000070.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000071.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000071.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000072.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000072.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000073.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000073.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000074.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000074.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000075.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000075.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000076.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000076.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000077.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000077.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000078.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000078.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000079.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000079.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000080.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000080.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000081.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000081.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000082.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000082.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000083.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000083.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000084.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000084.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000085.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000085.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000086.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000086.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000087.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000087.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000088.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000088.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000089.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000089.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000090.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000090.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000091.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000091.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000092.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000092.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000093.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000093.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000094.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000094.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000095.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000095.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000097.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000097.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000098.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000098.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000099.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000099.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000100.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000100.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000101.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000101.txt",
       "type": "ruleset",
       "enabled": true
     },
     {
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000102.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000102.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000103.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000103.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000104.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000104.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000105.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000105.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000106.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000106.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000107.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000107.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000108.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000108.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000109.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000109.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000110.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000110.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000111.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000111.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000112.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000112.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000113.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000113.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000114.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000114.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000115.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000115.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000116.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000116.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000117.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000117.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000118.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000118.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000119.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000119.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000120.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000120.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000121.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000121.txt",
       "type": "ruleset",
       "enabled": true
     }	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000122.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000122.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000123.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000123.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000124.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000124.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000125.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000125.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000126.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000126.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000127.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000127.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000128.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000128.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000129.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000129.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000130.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000130.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000131.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000131.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000132.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000132.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000133.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000133.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000134.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000134.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000135.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000135.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000136.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000136.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000137.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000137.txt",
       "type": "ruleset",
       "enabled": true
     }	
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000138.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000138.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000138.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000138.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000139.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000139.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000140.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000140.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000141.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000141.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000142.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000142.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000143.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000143.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000144.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000144.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000145.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000145.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000146.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000146.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000147.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000147.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000148.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000148.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000149.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000149.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000150.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000150.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000151.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000151.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000152.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000152.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000153.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000153.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000154.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000154.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000155.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000155.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000156.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000156.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000157.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000157.txt",
       "type": "ruleset",
       "enabled": true
     }
 	{
       "name": "",
-      "url": "https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000158.txt",
+      "url": "https://raw.githubusercontent.com/Fengsemul/T/refs/heads/main/chunk_000158.txt",
       "type": "ruleset",
       "enabled": true
     }
