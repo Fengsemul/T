@@ -156,3 +156,7 @@ https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000155.txt
 https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000156.txt
 https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000157.txt
 https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000158.txt
+
+Failure:v
+chunk_000070 24,903 KB failed to fetch by uBlacklist.
+failure:a
