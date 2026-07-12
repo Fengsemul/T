@@ -160,3 +160,5 @@ https://github.com/Fengsemul/T/raw/refs/heads/main/chunk_000158.txt
 Failure:v
 chunk_000070 24,903 KB failed to fetch by uBlacklist.
 failure:a
+
+I added less of 100-milion meanwhile 100% of 10-milion-lists because I suspect that the 100-million-list goes alphabetically at some point and I want to focus on the more popular sites instead alphabetically.
